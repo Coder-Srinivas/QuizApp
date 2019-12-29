@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="q1">Mt.Everest is the tallest mountain in the world.</string>
+    <string name="q2">Sydney is the capital of Australia.</string>
+    <string name="q3">Eyes are only organs in our body which do not grow.</string>
+    <string name="q4">Antarctica is the driest place in the world.</string>
+    <string name="q5">Thomas Edison was the inventor of alternating current.</string>
+    <string name="q6">London has the longest life expectancy.</string>
+    <string name="q7">North America and Russia are separated by a distance of only 4 kilometers.</string>
+    <string name="q8">"Hotmail" was invented by an Indian.</string>
+    <string name="q9">Bill Gates is the richest man in the world.</string>
+    <string name="q10">Steve Jobs the founder of Apple has no idea about coding.</string>
+    </resources>
